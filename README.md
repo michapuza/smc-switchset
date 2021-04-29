@@ -5,7 +5,7 @@ smc corporation manufactures ethernet/ip compatible valve bank units whose ip ad
 i won't go into the details here, you can find that on smc's website. it's freely available. if you're viewing this repo, you probably know generally how the system works. you just don't want to do the math. i get it, i don't either. that's why i wrote the program.
 basically, give it the third and fourth octets of your desired ip address and it'll tell you what to do with those eight switches. 
 
-# what doesn't it to?
+# what doesn't it do?
 literally everything else. it's cut and dry and lightweight for a reason. it's just made to make life a little easier by way of doing less math.
 
 # what should i do?
